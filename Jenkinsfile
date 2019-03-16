@@ -16,3 +16,9 @@ node {
         echo "deploying"
     }
 }
+node { 
+    stage (' deploy to UAT') {
+        echo "deploy to UAT') 
+    }
+    
+}
