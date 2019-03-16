@@ -18,7 +18,7 @@ node {
 }
 node { 
     stage (' deploy to UAT') {
-        echo "deploy to UAT') 
+        echo "deploy to UAT" 
     }
     
 }
